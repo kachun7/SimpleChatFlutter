@@ -1,1 +1,1 @@
-# SimpleChatFlutter
+# Simple Chat
